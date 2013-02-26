@@ -1,0 +1,15 @@
+{
+    "name": "reallysimple/PHP-Cache",
+    "type": "library",
+    "description": "Very simple PHP caching class, which uses APC if available, file caching if not.",
+    "keywords": ["php", "cache"],
+    "authors": [
+        {
+            "name": "reallysimple",
+            "homepage": "http://reallysimpleworks.com/"
+        }
+    ],
+    "autoload": {
+        "psr-0": { "reallysimple": "/" }
+    }
+}
